@@ -1,0 +1,254 @@
+{
+  "state_capitals": [
+    {
+      "state": "Alabama",
+      "capital": "Montgomery",
+      "address": "600 Dexter Avenue, Montgomery, AL 36130"
+    },
+    {
+      "state": "Alaska",
+      "capital": "Juneau",
+      "address": "120 4th Street, Juneau, AK 99801"
+    },
+    {
+      "state": "Arizona",
+      "capital": "Phoenix",
+      "address": "1700 W Washington Street, Phoenix, AZ 85007"
+    },
+    {
+      "state": "Arkansas",
+      "capital": "Little Rock",
+      "address": "500 Woodlane Street, Little Rock, AR 72201"
+    },
+    {
+      "state": "California",
+      "capital": "Sacramento",
+      "address": "1315 10th Street, Sacramento, CA 95814"
+    },
+    {
+      "state": "Colorado",
+      "capital": "Denver",
+      "address": "200 E Colfax Avenue, Denver, CO 80203"
+    },
+    {
+      "state": "Connecticut",
+      "capital": "Hartford",
+      "address": "210 Capitol Avenue, Hartford, CT 06106"
+    },
+    {
+      "state": "Delaware",
+      "capital": "Dover",
+      "address": "Legislative Hall, 411 Legislative Avenue, Dover, DE 19901"
+    },
+    {
+      "state": "Florida",
+      "capital": "Tallahassee",
+      "address": "400 S Monroe Street, Tallahassee, FL 32399"
+    },
+    {
+      "state": "Georgia",
+      "capital": "Atlanta",
+      "address": "206 Washington Street SW, Atlanta, GA 30334"
+    },
+    {
+      "state": "Hawaii",
+      "capital": "Honolulu",
+      "address": "415 S Beretania Street, Honolulu, HI 96813"
+    },
+    {
+      "state": "Idaho",
+      "capital": "Boise",
+      "address": "700 W Jefferson Street, Boise, ID 83720"
+    },
+    {
+      "state": "Illinois",
+      "capital": "Springfield",
+      "address": "401 S 2nd Street, Springfield, IL 62701"
+    },
+    {
+      "state": "Indiana",
+      "capital": "Indianapolis",
+      "address": "200 W Washington Street, Indianapolis, IN 46204"
+    },
+    {
+      "state": "Iowa",
+      "capital": "Des Moines",
+      "address": "1007 E Grand Avenue, Des Moines, IA 50319"
+    },
+    {
+      "state": "Kansas",
+      "capital": "Topeka",
+      "address": "300 SW 10th Avenue, Topeka, KS 66612"
+    },
+    {
+      "state": "Kentucky",
+      "capital": "Frankfort",
+      "address": "700 Capitol Avenue, Frankfort, KY 40601"
+    },
+    {
+      "state": "Louisiana",
+      "capital": "Baton Rouge",
+      "address": "900 N 3rd Street, Baton Rouge, LA 70802"
+    },
+    {
+      "state": "Maine",
+      "capital": "Augusta",
+      "address": "210 State Street, Augusta, ME 04333"
+    },
+    {
+      "state": "Maryland",
+      "capital": "Annapolis",
+      "address": "100 State Circle, Annapolis, MD 21401"
+    },
+    {
+      "state": "Massachusetts",
+      "capital": "Boston",
+      "address": "24 Beacon Street, Boston, MA 02133"
+    },
+    {
+      "state": "Michigan",
+      "capital": "Lansing",
+      "address": "110 W Michigan Avenue, Lansing, MI 48933"
+    },
+    {
+      "state": "Minnesota",
+      "capital": "Saint Paul",
+      "address": "75 Rev Dr Martin Luther King Jr Blvd, Saint Paul, MN 55155"
+    },
+    {
+      "state": "Mississippi",
+      "capital": "Jackson",
+      "address": "400 High Street, Jackson, MS 39201"
+    },
+    {
+      "state": "Missouri",
+      "capital": "Jefferson City",
+      "address": "201 W Capitol Avenue, Jefferson City, MO 65101"
+    },
+    {
+      "state": "Montana",
+      "capital": "Helena",
+      "address": "1301 E 6th Avenue, Helena, MT 59620"
+    },
+    {
+      "state": "Nebraska",
+      "capital": "Lincoln",
+      "address": "1445 K Street, Lincoln, NE 68509"
+    },
+    {
+      "state": "Nevada",
+      "capital": "Carson City",
+      "address": "101 N Carson Street, Carson City, NV 89701"
+    },
+    {
+      "state": "New Hampshire",
+      "capital": "Concord",
+      "address": "107 N Main Street, Concord, NH 03301"
+    },
+    {
+      "state": "New Jersey",
+      "capital": "Trenton",
+      "address": "125 W State Street, Trenton, NJ 08608"
+    },
+    {
+      "state": "New Mexico",
+      "capital": "Santa Fe",
+      "address": "490 Old Santa Fe Trail, Santa Fe, NM 87501"
+    },
+    {
+      "state": "New York",
+      "capital": "Albany",
+      "address": "State Capitol Building, Albany, NY 12224"
+    },
+    {
+      "state": "North Carolina",
+      "capital": "Raleigh",
+      "address": "1 E Edenton Street, Raleigh, NC 27601"
+    },
+    {
+      "state": "North Dakota",
+      "capital": "Bismarck",
+      "address": "600 E Boulevard Avenue, Bismarck, ND 58505"
+    },
+    {
+      "state": "Ohio",
+      "capital": "Columbus",
+      "address": "1 Capitol Square, Columbus, OH 43215"
+    },
+    {
+      "state": "Oklahoma",
+      "capital": "Oklahoma City",
+      "address": "2300 N Lincoln Boulevard, Oklahoma City, OK 73105"
+    },
+    {
+      "state": "Oregon",
+      "capital": "Salem",
+      "address": "900 Court Street NE, Salem, OR 97301"
+    },
+    {
+      "state": "Pennsylvania",
+      "capital": "Harrisburg",
+      "address": "501 N 3rd Street, Harrisburg, PA 17120"
+    },
+    {
+      "state": "Rhode Island",
+      "capital": "Providence",
+      "address": "82 Smith Street, Providence, RI 02903"
+    },
+    {
+      "state": "South Carolina",
+      "capital": "Columbia",
+      "address": "1100 Gervais Street, Columbia, SC 29201"
+    },
+    {
+      "state": "South Dakota",
+      "capital": "Pierre",
+      "address": "500 E Capitol Avenue, Pierre, SD 57501"
+    },
+    {
+      "state": "Tennessee",
+      "capital": "Nashville",
+      "address": "600 Dr Martin L King Jr Blvd, Nashville, TN 37243"
+    },
+    {
+      "state": "Texas",
+      "capital": "Austin",
+      "address": "1100 Congress Avenue, Austin, TX 78701"
+    },
+    {
+      "state": "Utah",
+      "capital": "Salt Lake City",
+      "address": "350 N State Street, Salt Lake City, UT 84114"
+    },
+    {
+      "state": "Vermont",
+      "capital": "Montpelier",
+      "address": "115 State Street, Montpelier, VT 05633"
+    },
+    {
+      "state": "Virginia",
+      "capital": "Richmond",
+      "address": "1000 Bank Street, Richmond, VA 23218"
+    },
+    {
+      "state": "Washington",
+      "capital": "Olympia",
+      "address": "416 Sid Snyder Ave SW, Olympia, WA 98504"
+    },
+    {
+      "state": "West Virginia",
+      "capital": "Charleston",
+      "address": "1900 Kanawha Blvd E, Charleston, WV 25305"
+    },
+    {
+      "state": "Wisconsin",
+      "capital": "Madison",
+      "address": "2 E Main Street, Madison, WI 53703"
+    },
+    {
+      "state": "Wyoming",
+      "capital": "Cheyenne",
+      "address": "200 W 24th Street, Cheyenne, WY 82002"
+    }
+  ]
+}
