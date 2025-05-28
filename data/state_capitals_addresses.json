@@ -3,252 +3,352 @@
     {
       "state": "Alabama",
       "capital": "Montgomery",
-      "address": "600 Dexter Avenue, Montgomery, AL 36130"
+      "address1": "600 Dexter Avenue",
+      "address2": "Montgomery, AL",
+      "zip_code": "36130"
     },
     {
       "state": "Alaska",
       "capital": "Juneau",
-      "address": "120 4th Street, Juneau, AK 99801"
+      "address1": "120 4th Street",
+      "address2": "Juneau, AK",
+      "zip_code": "99801"
     },
     {
       "state": "Arizona",
       "capital": "Phoenix",
-      "address": "1700 W Washington Street, Phoenix, AZ 85007"
+      "address1": "1700 W Washington Street",
+      "address2": "Phoenix, AZ",
+      "zip_code": "85007"
     },
     {
       "state": "Arkansas",
       "capital": "Little Rock",
-      "address": "500 Woodlane Street, Little Rock, AR 72201"
+      "address1": "500 Woodlane Street",
+      "address2": "Little Rock, AR",
+      "zip_code": "72201"
     },
     {
       "state": "California",
       "capital": "Sacramento",
-      "address": "1315 10th Street, Sacramento, CA 95814"
+      "address1": "1315 10th Street",
+      "address2": "Sacramento, CA",
+      "zip_code": "95814"
     },
     {
       "state": "Colorado",
       "capital": "Denver",
-      "address": "200 E Colfax Avenue, Denver, CO 80203"
+      "address1": "200 E Colfax Avenue",
+      "address2": "Denver, CO",
+      "zip_code": "80203"
     },
     {
       "state": "Connecticut",
       "capital": "Hartford",
-      "address": "210 Capitol Avenue, Hartford, CT 06106"
+      "address1": "210 Capitol Avenue",
+      "address2": "Hartford, CT",
+      "zip_code": "06106"
     },
     {
       "state": "Delaware",
       "capital": "Dover",
-      "address": "Legislative Hall, 411 Legislative Avenue, Dover, DE 19901"
+      "address1": "Legislative Hall, 411 Legislative Avenue",
+      "address2": "Dover, DE",
+      "zip_code": "19901"
     },
     {
       "state": "Florida",
       "capital": "Tallahassee",
-      "address": "400 S Monroe Street, Tallahassee, FL 32399"
+      "address1": "400 S Monroe Street",
+      "address2": "Tallahassee, FL",
+      "zip_code": "32399"
     },
     {
       "state": "Georgia",
       "capital": "Atlanta",
-      "address": "206 Washington Street SW, Atlanta, GA 30334"
+      "address1": "206 Washington Street SW",
+      "address2": "Atlanta, GA",
+      "zip_code": "30334"
     },
     {
       "state": "Hawaii",
       "capital": "Honolulu",
-      "address": "415 S Beretania Street, Honolulu, HI 96813"
+      "address1": "415 S Beretania Street",
+      "address2": "Honolulu, HI",
+      "zip_code": "96813"
     },
     {
       "state": "Idaho",
       "capital": "Boise",
-      "address": "700 W Jefferson Street, Boise, ID 83720"
+      "address1": "700 W Jefferson Street",
+      "address2": "Boise, ID",
+      "zip_code": "83720"
     },
     {
       "state": "Illinois",
       "capital": "Springfield",
-      "address": "401 S 2nd Street, Springfield, IL 62701"
+      "address1": "401 S 2nd Street",
+      "address2": "Springfield, IL",
+      "zip_code": "62701"
     },
     {
       "state": "Indiana",
       "capital": "Indianapolis",
-      "address": "200 W Washington Street, Indianapolis, IN 46204"
+      "address1": "200 W Washington Street",
+      "address2": "Indianapolis, IN",
+      "zip_code": "46204"
     },
     {
       "state": "Iowa",
       "capital": "Des Moines",
-      "address": "1007 E Grand Avenue, Des Moines, IA 50319"
+      "address1": "1007 E Grand Avenue",
+      "address2": "Des Moines, IA",
+      "zip_code": "50319"
     },
     {
       "state": "Kansas",
       "capital": "Topeka",
-      "address": "300 SW 10th Avenue, Topeka, KS 66612"
+      "address1": "300 SW 10th Avenue",
+      "address2": "Topeka, KS",
+      "zip_code": "66612"
     },
     {
       "state": "Kentucky",
       "capital": "Frankfort",
-      "address": "700 Capitol Avenue, Frankfort, KY 40601"
+      "address1": "700 Capitol Avenue",
+      "address2": "Frankfort, KY",
+      "zip_code": "40601"
     },
     {
       "state": "Louisiana",
       "capital": "Baton Rouge",
-      "address": "900 N 3rd Street, Baton Rouge, LA 70802"
+      "address1": "900 N 3rd Street",
+      "address2": "Baton Rouge, LA",
+      "zip_code": "70802"
     },
     {
       "state": "Maine",
       "capital": "Augusta",
-      "address": "210 State Street, Augusta, ME 04333"
+      "address1": "210 State Street",
+      "address2": "Augusta, ME",
+      "zip_code": "04333"
     },
     {
       "state": "Maryland",
       "capital": "Annapolis",
-      "address": "100 State Circle, Annapolis, MD 21401"
+      "address1": "100 State Circle",
+      "address2": "Annapolis, MD",
+      "zip_code": "21401"
     },
     {
       "state": "Massachusetts",
       "capital": "Boston",
-      "address": "24 Beacon Street, Boston, MA 02133"
+      "address1": "24 Beacon Street",
+      "address2": "Boston, MA",
+      "zip_code": "02133"
     },
     {
       "state": "Michigan",
       "capital": "Lansing",
-      "address": "110 W Michigan Avenue, Lansing, MI 48933"
+      "address1": "110 W Michigan Avenue",
+      "address2": "Lansing, MI",
+      "zip_code": "48933"
     },
     {
       "state": "Minnesota",
       "capital": "Saint Paul",
-      "address": "75 Rev Dr Martin Luther King Jr Blvd, Saint Paul, MN 55155"
+      "address1": "75 Rev Dr Martin Luther King Jr Blvd",
+      "address2": "Saint Paul, MN",
+      "zip_code": "55155"
     },
     {
       "state": "Mississippi",
       "capital": "Jackson",
-      "address": "400 High Street, Jackson, MS 39201"
+      "address1": "400 High Street",
+      "address2": "Jackson, MS",
+      "zip_code": "39201"
     },
     {
       "state": "Missouri",
       "capital": "Jefferson City",
-      "address": "201 W Capitol Avenue, Jefferson City, MO 65101"
+      "address1": "201 W Capitol Avenue",
+      "address2": "Jefferson City, MO",
+      "zip_code": "65101"
     },
     {
       "state": "Montana",
       "capital": "Helena",
-      "address": "1301 E 6th Avenue, Helena, MT 59620"
+      "address1": "1301 E 6th Avenue",
+      "address2": "Helena, MT",
+      "zip_code": "59620"
     },
     {
       "state": "Nebraska",
       "capital": "Lincoln",
-      "address": "1445 K Street, Lincoln, NE 68509"
+      "address1": "1445 K Street",
+      "address2": "Lincoln, NE",
+      "zip_code": "68509"
     },
     {
       "state": "Nevada",
       "capital": "Carson City",
-      "address": "101 N Carson Street, Carson City, NV 89701"
+      "address1": "101 N Carson Street",
+      "address2": "Carson City, NV",
+      "zip_code": "89701"
     },
     {
       "state": "New Hampshire",
       "capital": "Concord",
-      "address": "107 N Main Street, Concord, NH 03301"
+      "address1": "107 N Main Street",
+      "address2": "Concord, NH",
+      "zip_code": "03301"
     },
     {
       "state": "New Jersey",
       "capital": "Trenton",
-      "address": "125 W State Street, Trenton, NJ 08608"
+      "address1": "125 W State Street",
+      "address2": "Trenton, NJ",
+      "zip_code": "08608"
     },
     {
       "state": "New Mexico",
       "capital": "Santa Fe",
-      "address": "490 Old Santa Fe Trail, Santa Fe, NM 87501"
+      "address1": "490 Old Santa Fe Trail",
+      "address2": "Santa Fe, NM",
+      "zip_code": "87501"
     },
     {
       "state": "New York",
       "capital": "Albany",
-      "address": "State Capitol Building, Albany, NY 12224"
+      "address1": "State Capitol Building",
+      "address2": "Albany, NY",
+      "zip_code": "12224"
     },
     {
       "state": "North Carolina",
       "capital": "Raleigh",
-      "address": "1 E Edenton Street, Raleigh, NC 27601"
+      "address1": "1 E Edenton Street",
+      "address2": "Raleigh, NC",
+      "zip_code": "27601"
     },
     {
       "state": "North Dakota",
       "capital": "Bismarck",
-      "address": "600 E Boulevard Avenue, Bismarck, ND 58505"
+      "address1": "600 E Boulevard Avenue",
+      "address2": "Bismarck, ND",
+      "zip_code": "58505"
     },
     {
       "state": "Ohio",
       "capital": "Columbus",
-      "address": "1 Capitol Square, Columbus, OH 43215"
+      "address1": "1 Capitol Square",
+      "address2": "Columbus, OH",
+      "zip_code": "43215"
     },
     {
       "state": "Oklahoma",
       "capital": "Oklahoma City",
-      "address": "2300 N Lincoln Boulevard, Oklahoma City, OK 73105"
+      "address1": "2300 N Lincoln Boulevard",
+      "address2": "Oklahoma City, OK",
+      "zip_code": "73105"
     },
     {
       "state": "Oregon",
       "capital": "Salem",
-      "address": "900 Court Street NE, Salem, OR 97301"
+      "address1": "900 Court Street NE",
+      "address2": "Salem, OR",
+      "zip_code": "97301"
     },
     {
       "state": "Pennsylvania",
       "capital": "Harrisburg",
-      "address": "501 N 3rd Street, Harrisburg, PA 17120"
+      "address1": "501 N 3rd Street",
+      "address2": "Harrisburg, PA",
+      "zip_code": "17120"
     },
     {
       "state": "Rhode Island",
       "capital": "Providence",
-      "address": "82 Smith Street, Providence, RI 02903"
+      "address1": "82 Smith Street",
+      "address2": "Providence, RI",
+      "zip_code": "02903"
     },
     {
       "state": "South Carolina",
       "capital": "Columbia",
-      "address": "1100 Gervais Street, Columbia, SC 29201"
+      "address1": "1100 Gervais Street",
+      "address2": "Columbia, SC",
+      "zip_code": "29201"
     },
     {
       "state": "South Dakota",
       "capital": "Pierre",
-      "address": "500 E Capitol Avenue, Pierre, SD 57501"
+      "address1": "500 E Capitol Avenue",
+      "address2": "Pierre, SD",
+      "zip_code": "57501"
     },
     {
       "state": "Tennessee",
       "capital": "Nashville",
-      "address": "600 Dr Martin L King Jr Blvd, Nashville, TN 37243"
+      "address1": "600 Dr Martin L King Jr Blvd",
+      "address2": "Nashville, TN",
+      "zip_code": "37243"
     },
     {
       "state": "Texas",
       "capital": "Austin",
-      "address": "1100 Congress Avenue, Austin, TX 78701"
+      "address1": "1100 Congress Avenue",
+      "address2": "Austin, TX",
+      "zip_code": "78701"
     },
     {
       "state": "Utah",
       "capital": "Salt Lake City",
-      "address": "350 N State Street, Salt Lake City, UT 84114"
+      "address1": "350 N State Street",
+      "address2": "Salt Lake City, UT",
+      "zip_code": "84114"
     },
     {
       "state": "Vermont",
       "capital": "Montpelier",
-      "address": "115 State Street, Montpelier, VT 05633"
+      "address1": "115 State Street",
+      "address2": "Montpelier, VT",
+      "zip_code": "05633"
     },
     {
       "state": "Virginia",
       "capital": "Richmond",
-      "address": "1000 Bank Street, Richmond, VA 23218"
+      "address1": "1000 Bank Street",
+      "address2": "Richmond, VA",
+      "zip_code": "23218"
     },
     {
       "state": "Washington",
       "capital": "Olympia",
-      "address": "416 Sid Snyder Ave SW, Olympia, WA 98504"
+      "address1": "416 Sid Snyder Ave SW",
+      "address2": "Olympia, WA",
+      "zip_code": "98504"
     },
     {
       "state": "West Virginia",
       "capital": "Charleston",
-      "address": "1900 Kanawha Blvd E, Charleston, WV 25305"
+      "address1": "1900 Kanawha Blvd E",
+      "address2": "Charleston, WV",
+      "zip_code": "25305"
     },
     {
       "state": "Wisconsin",
       "capital": "Madison",
-      "address": "2 E Main Street, Madison, WI 53703"
+      "address1": "2 E Main Street",
+      "address2": "Madison, WI",
+      "zip_code": "53703"
     },
     {
       "state": "Wyoming",
       "capital": "Cheyenne",
-      "address": "200 W 24th Street, Cheyenne, WY 82002"
+      "address1": "200 W 24th Street",
+      "address2": "Cheyenne, WY",
+      "zip_code": "82002"
     }
   ]
 }
