@@ -1,7 +1,5 @@
 
-# Travelling Politician Project
-
-This project is part of the EMRTS internship and implements a data preprocessing pipeline for solving a simplified routing optimization problem inspired by the Travelling Salesman Problem.
+# state-capitals-project
 
 ## 📁 Project Structure
 
