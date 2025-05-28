@@ -1,37 +1,454 @@
-[
+{
+  "state_capitals": [
     {
-        "state": "Alabama",
-        "capital": "Montgomery",
-        "address": "600 Dexter Ave, Montgomery, AL 36130",
-        "latitude": 32.3777,
-        "longitude": -86.3
+      "state": "Alabama",
+      "capital": "Montgomery",
+      "address1": "600 Dexter Avenue",
+      "address2": "Montgomery, AL",
+      "zip_code": "36130",
+      "latitude": 32.3617,
+      "longitude": -86.2792
     },
     {
-        "state": "Alaska",
-        "capital": "Juneau",
-        "address": "120 4th St, Juneau, AK 99801",
-        "latitude": 58.3019,
-        "longitude": -134.4197
+      "state": "Alaska",
+      "capital": "Juneau",
+      "address1": "120 4th Street",
+      "address2": "Juneau, AK",
+      "zip_code": "99801",
+      "latitude": 58.3019,
+      "longitude": -134.4197
     },
     {
-        "state": "Arizona",
-        "capital": "Phoenix",
-        "address": "1700 W Washington St, Phoenix, AZ 85007",
-        "latitude": 33.4484,
-        "longitude": -112.074
+      "state": "Arizona",
+      "capital": "Phoenix",
+      "address1": "1700 W Washington Street",
+      "address2": "Phoenix, AZ",
+      "zip_code": "85007",
+      "latitude": 33.4484,
+      "longitude": -112.0740
     },
     {
-        "state": "Arkansas",
-        "capital": "Little Rock",
-        "address": "500 Woodlane St, Little Rock, AR 72201",
-        "latitude": 34.7465,
-        "longitude": -92.2896
+      "state": "Arkansas",
+      "capital": "Little Rock",
+      "address1": "500 Woodlane Street",
+      "address2": "Little Rock, AR",
+      "zip_code": "72201",
+      "latitude": 34.7465,
+      "longitude": -92.2896
     },
     {
-        "state": "California",
-        "capital": "Sacramento",
-        "address": "1315 10th St, Sacramento, CA 95814",
-        "latitude": 38.5816,
-        "longitude": -121.4944
+      "state": "California",
+      "capital": "Sacramento",
+      "address1": "1315 10th Street",
+      "address2": "Sacramento, CA",
+      "zip_code": "95814",
+      "latitude": 38.5816,
+      "longitude": -121.4944
+    },
+    {
+      "state": "Colorado",
+      "capital": "Denver",
+      "address1": "200 E Colfax Avenue",
+      "address2": "Denver, CO",
+      "zip_code": "80203",
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    {
+      "state": "Connecticut",
+      "capital": "Hartford",
+      "address1": "210 Capitol Avenue",
+      "address2": "Hartford, CT",
+      "zip_code": "06106",
+      "latitude": 41.7658,
+      "longitude": -72.6734
+    },
+    {
+      "state": "Delaware",
+      "capital": "Dover",
+      "address1": "Legislative Hall, 411 Legislative Avenue",
+      "address2": "Dover, DE",
+      "zip_code": "19901",
+      "latitude": 39.1573,
+      "longitude": -75.5277
+    },
+    {
+      "state": "Florida",
+      "capital": "Tallahassee",
+      "address1": "400 S Monroe Street",
+      "address2": "Tallahassee, FL",
+      "zip_code": "32399",
+      "latitude": 30.4518,
+      "longitude": -84.2727
+    },
+    {
+      "state": "Georgia",
+      "capital": "Atlanta",
+      "address1": "206 Washington Street SW",
+      "address2": "Atlanta, GA",
+      "zip_code": "30334",
+      "latitude": 33.7600,
+      "longitude": -84.3900
+    },
+    {
+      "state": "Hawaii",
+      "capital": "Honolulu",
+      "address1": "415 S Beretania Street",
+      "address2": "Honolulu, HI",
+      "zip_code": "96813",
+      "latitude": 21.3099,
+      "longitude": -157.8261
+    },
+    {
+      "state": "Idaho",
+      "capital": "Boise",
+      "address1": "700 W Jefferson Street",
+      "address2": "Boise, ID",
+      "zip_code": "83720",
+      "latitude": 43.6150,
+      "longitude": -116.2023
+    },
+    {
+      "state": "Illinois",
+      "capital": "Springfield",
+      "address1": "401 S 2nd Street",
+      "address2": "Springfield, IL",
+      "zip_code": "62701",
+      "latitude": 39.7817,
+      "longitude": -89.6501
+    },
+    {
+      "state": "Indiana",
+      "capital": "Indianapolis",
+      "address1": "200 W Washington Street",
+      "address2": "Indianapolis, IN",
+      "zip_code": "46204",
+      "latitude": 39.7910,
+      "longitude": -86.1480
+    },
+    {
+      "state": "Iowa",
+      "capital": "Des Moines",
+      "address1": "1007 E Grand Avenue",
+      "address2": "Des Moines, IA",
+      "zip_code": "50319",
+      "latitude": 41.5868,
+      "longitude": -93.6250
+    },
+    {
+      "state": "Kansas",
+      "capital": "Topeka",
+      "address1": "300 SW 10th Avenue",
+      "address2": "Topeka, KS",
+      "zip_code": "66612",
+      "latitude": 39.0473,
+      "longitude": -95.6890
+    },
+    {
+      "state": "Kentucky",
+      "capital": "Frankfort",
+      "address1": "700 Capitol Avenue",
+      "address2": "Frankfort, KY",
+      "zip_code": "40601",
+      "latitude": 38.2009,
+      "longitude": -84.8733
+    },
+    {
+      "state": "Louisiana",
+      "capital": "Baton Rouge",
+      "address1": "900 N 3rd Street",
+      "address2": "Baton Rouge, LA",
+      "zip_code": "70802",
+      "latitude": 30.4515,
+      "longitude": -91.1871
+    },
+    {
+      "state": "Maine",
+      "capital": "Augusta",
+      "address1": "210 State Street",
+      "address2": "Augusta, ME",
+      "zip_code": "04333",
+      "latitude": 44.3106,
+      "longitude": -69.7795
+    },
+    {
+      "state": "Maryland",
+      "capital": "Annapolis",
+      "address1": "100 State Circle",
+      "address2": "Annapolis, MD",
+      "zip_code": "21401",
+      "latitude": 38.9726,
+      "longitude": -76.5010
+    },
+    {
+      "state": "Massachusetts",
+      "capital": "Boston",
+      "address1": "24 Beacon Street",
+      "address2": "Boston, MA",
+      "zip_code": "02133",
+      "latitude": 42.2352,
+      "longitude": -71.0275
+    },
+    {
+      "state": "Michigan",
+      "capital": "Lansing",
+      "address1": "110 W Michigan Avenue",
+      "address2": "Lansing, MI",
+      "zip_code": "48933",
+      "latitude": 42.3584,
+      "longitude": -84.9549
+    },
+    {
+      "state": "Minnesota",
+      "capital": "Saint Paul",
+      "address1": "75 Rev Dr Martin Luther King Jr Blvd",
+      "address2": "Saint Paul, MN",
+      "zip_code": "55155",
+      "latitude": 44.9537,
+      "longitude": -93.0900
+    },
+    {
+      "state": "Mississippi",
+      "capital": "Jackson",
+      "address1": "400 High Street",
+      "address2": "Jackson, MS",
+      "zip_code": "39201",
+      "latitude": 32.3200,
+      "longitude": -90.2070
+    },
+    {
+      "state": "Missouri",
+      "capital": "Jefferson City",
+      "address1": "201 W Capitol Avenue",
+      "address2": "Jefferson City, MO",
+      "zip_code": "65101",
+      "latitude": 38.5767,
+      "longitude": -92.1735
+    },
+    {
+      "state": "Montana",
+      "capital": "Helena",
+      "address1": "1301 E 6th Avenue",
+      "address2": "Helena, MT",
+      "zip_code": "59620",
+      "latitude": 46.5957,
+      "longitude": -112.0362
+    },
+    {
+      "state": "Nebraska",
+      "capital": "Lincoln",
+      "address1": "1445 K Street",
+      "address2": "Lincoln, NE",
+      "zip_code": "68509",
+      "latitude": 40.8136,
+      "longitude": -96.7026
+    },
+    {
+      "state": "Nevada",
+      "capital": "Carson City",
+      "address1": "101 N Carson Street",
+      "address2": "Carson City, NV",
+      "zip_code": "89701",
+      "latitude": 39.1638,
+      "longitude": -119.7674
+    },
+    {
+      "state": "New Hampshire",
+      "capital": "Concord",
+      "address1": "107 N Main Street",
+      "address2": "Concord, NH",
+      "zip_code": "03301",
+      "latitude": 43.2081,
+      "longitude": -71.5376
+    },
+    {
+      "state": "New Jersey",
+      "capital": "Trenton",
+      "address1": "125 W State Street",
+      "address2": "Trenton, NJ",
+      "zip_code": "08608",
+      "latitude": 40.2206,
+      "longitude": -74.7565
+    },
+    {
+      "state": "New Mexico",
+      "capital": "Santa Fe",
+      "address1": "490 Old Santa Fe Trail",
+      "address2": "Santa Fe, NM",
+      "zip_code": "87501",
+      "latitude": 35.6870,
+      "longitude": -105.9378
+    },
+    {
+      "state": "New York",
+      "capital": "Albany",
+      "address1": "State Capitol Building",
+      "address2": "Albany, NY",
+      "zip_code": "12224",
+      "latitude": 42.6526,
+      "longitude": -73.7562
+    },
+    {
+      "state": "North Carolina",
+      "capital": "Raleigh",
+      "address1": "1 E Edenton Street",
+      "address2": "Raleigh, NC",
+      "zip_code": "27601",
+      "latitude": 35.7796,
+      "longitude": -78.6382
+    },
+    {
+      "state": "North Dakota",
+      "capital": "Bismarck",
+      "address1": "600 E Boulevard Avenue",
+      "address2": "Bismarck, ND",
+      "zip_code": "58505",
+      "latitude": 46.8083,
+      "longitude": -100.7837
+    },
+    {
+      "state": "Ohio",
+      "capital": "Columbus",
+      "address1": "1 Capitol Square",
+      "address2": "Columbus, OH",
+      "zip_code": "43215",
+      "latitude": 39.9612,
+      "longitude": -82.9988
+    },
+    {
+      "state": "Oklahoma",
+      "capital": "Oklahoma City",
+      "address1": "2300 N Lincoln Boulevard",
+      "address2": "Oklahoma City, OK",
+      "zip_code": "73105",
+      "latitude": 35.4676,
+      "longitude": -97.5164
+    },
+    {
+      "state": "Oregon",
+      "capital": "Salem",
+      "address1": "900 Court Street NE",
+      "address2": "Salem, OR",
+      "zip_code": "97301",
+      "latitude": 44.9429,
+      "longitude": -123.0351
+    },
+    {
+      "state": "Pennsylvania",
+      "capital": "Harrisburg",
+      "address1": "501 N 3rd Street",
+      "address2": "Harrisburg, PA",
+      "zip_code": "17120",
+      "latitude": 40.2732,
+      "longitude": -76.8839
+    },
+    {
+      "state": "Rhode Island",
+      "capital": "Providence",
+      "address1": "82 Smith Street",
+      "address2": "Providence, RI",
+      "zip_code": "02903",
+      "latitude": 41.8240,
+      "longitude": -71.4128
+    },
+    {
+      "state": "South Carolina",
+      "capital": "Columbia",
+      "address1": "1100 Gervais Street",
+      "address2": "Columbia, SC",
+      "zip_code": "29201",
+      "latitude": 34.0000,
+      "longitude": -81.0348
+    },
+    {
+      "state": "South Dakota",
+      "capital": "Pierre",
+      "address1": "500 E Capitol Avenue",
+      "address2": "Pierre, SD",
+      "zip_code": "57501",
+      "latitude": 44.2998,
+      "longitude": -100.3510
+    },
+    {
+      "state": "Tennessee",
+      "capital": "Nashville",
+      "address1": "600 Dr Martin L King Jr Blvd",
+      "address2": "Nashville, TN",
+      "zip_code": "37243",
+      "latitude": 36.1627,
+      "longitude": -86.7816
+    },
+    {
+      "state": "Texas",
+      "capital": "Austin",
+      "address1": "1100 Congress Avenue",
+      "address2": "Austin, TX",
+      "zip_code": "78701",
+      "latitude": 30.2672,
+      "longitude": -97.7431
+    },
+    {
+      "state": "Utah",
+      "capital": "Salt Lake City",
+      "address1": "350 N State Street",
+      "address2": "Salt Lake City, UT",
+      "zip_code": "84114",
+      "latitude": 40.7608,
+      "longitude": -111.8910
+    },
+    {
+      "state": "Vermont",
+      "capital": "Montpelier",
+      "address1": "115 State Street",
+      "address2": "Montpelier, VT",
+      "zip_code": "05633",
+      "latitude": 44.2601,
+      "longitude": -72.5806
+    },
+    {
+      "state": "Virginia",
+      "capital": "Richmond",
+      "address1": "1000 Bank Street",
+      "address2": "Richmond, VA",
+      "zip_code": "23218",
+      "latitude": 37.5407,
+      "longitude": -77.4360
+    },
+    {
+      "state": "Washington",
+      "capital": "Olympia",
+      "address1": "416 Sid Snyder Ave SW",
+      "address2": "Olympia, WA",
+      "zip_code": "98504",
+      "latitude": 47.0379,
+      "longitude": -122.9015
+    },
+    {
+      "state": "West Virginia",
+      "capital": "Charleston",
+      "address1": "1900 Kanawha Blvd E",
+      "address2": "Charleston, WV",
+      "zip_code": "25305",
+      "latitude": 38.3498,
+      "longitude": -81.6326
+    },
+    {
+      "state": "Wisconsin",
+      "capital": "Madison",
+      "address1": "2 E Main Street",
+      "address2": "Madison, WI",
+      "zip_code": "53703",
+      "latitude": 43.0731,
+      "longitude": -89.4012
+    },
+    {
+      "state": "Wyoming",
+      "capital": "Cheyenne",
+      "address1": "200 W 24th Street",
+      "address2": "Cheyenne, WY",
+      "zip_code": "82002",
+      "latitude": 41.1400,
+      "longitude": -104.8197
     }
-]
+  ]
+}
