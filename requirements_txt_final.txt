@@ -1,0 +1,19 @@
+# US State Capitals Address Database - Python Dependencies
+# ========================================================
+
+# Core HTTP library for geocoding API requests
+requests>=2.28.0
+
+# Built-in Python modules (no installation required):
+# - json: JSON parsing and generation
+# - time: Time delays and timestamps
+# - datetime: Date and time handling
+# - os: Operating system interface
+# - sys: System parameters and functions
+# - math: Mathematical functions
+# - importlib: Dynamic module importing
+
+# Optional development dependencies (uncomment if needed):
+# pytest>=7.0.0          # Testing framework
+# black>=22.0.0           # Code formatting
+# flake8>=5.0.0           # Code linting
