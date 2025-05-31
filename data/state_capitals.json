@@ -4,18 +4,7 @@
     "description": "Official addresses of all 50 US state capitals",
     "created_date": "2025-06-01",
     "total_states": 50,
-    "step": "Step 1 - Initial JSON creation",
-    "geocoding": {
-      "geocoding_date": "2025-06-01T15:30:45.123456",
-      "geocoding_service": "nominatim",
-      "total_addresses": 50,
-      "successful_geocodes": 50,
-      "failed_geocodes": 0,
-      "success_rate": "100.0%",
-      "failed_addresses": [],
-      "step": "Step 3 - Coordinate addition",
-      "note": "Coordinates added using Nominatim (OpenStreetMap) geocoding service"
-    }
+    "step": "Step 1 - Initial JSON creation"
   },
   "states": [
     {
@@ -26,11 +15,17 @@
       "address_line_2": "",
       "city": "Montgomery",
       "zip_code_5": "36130",
-      "zip_code_4": "",
-      "latitude": 32.377716,
-      "longitude": -86.300568,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
+    },
+    {
+      "state": "Alaska",
+      "state_abbr": "AK",
+      "capital": "Juneau",
+      "address_line_1": "120 4th Street",
+      "address_line_2": "",
+      "city": "Juneau",
+      "zip_code_5": "99801",
+      "zip_code_4": ""
     },
     {
       "state": "Arizona",
@@ -40,11 +35,7 @@
       "address_line_2": "",
       "city": "Phoenix",
       "zip_code_5": "85007",
-      "zip_code_4": "",
-      "latitude": 33.448143,
-      "longitude": -112.096962,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Arkansas",
@@ -54,11 +45,7 @@
       "address_line_2": "",
       "city": "Little Rock",
       "zip_code_5": "72201",
-      "zip_code_4": "",
-      "latitude": 34.746613,
-      "longitude": -92.288986,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "California",
@@ -68,11 +55,7 @@
       "address_line_2": "",
       "city": "Sacramento",
       "zip_code_5": "95814",
-      "zip_code_4": "",
-      "latitude": 38.576668,
-      "longitude": -121.493629,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Colorado",
@@ -82,11 +65,7 @@
       "address_line_2": "",
       "city": "Denver",
       "zip_code_5": "80203",
-      "zip_code_4": "",
-      "latitude": 39.739236,
-      "longitude": -104.990251,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Connecticut",
@@ -96,11 +75,7 @@
       "address_line_2": "",
       "city": "Hartford",
       "zip_code_5": "06106",
-      "zip_code_4": "",
-      "latitude": 41.767000,
-      "longitude": -72.677000,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Delaware",
@@ -110,11 +85,7 @@
       "address_line_2": "",
       "city": "Dover",
       "zip_code_5": "19901",
-      "zip_code_4": "",
-      "latitude": 39.161921,
-      "longitude": -75.526755,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Florida",
@@ -124,11 +95,7 @@
       "address_line_2": "",
       "city": "Tallahassee",
       "zip_code_5": "32399",
-      "zip_code_4": "",
-      "latitude": 30.451800,
-      "longitude": -84.272700,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Georgia",
@@ -138,11 +105,7 @@
       "address_line_2": "",
       "city": "Atlanta",
       "zip_code_5": "30334",
-      "zip_code_4": "",
-      "latitude": 33.760000,
-      "longitude": -84.390000,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Hawaii",
@@ -152,11 +115,7 @@
       "address_line_2": "",
       "city": "Honolulu",
       "zip_code_5": "96813",
-      "zip_code_4": "",
-      "latitude": 21.308950,
-      "longitude": -157.826182,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Idaho",
@@ -166,11 +125,7 @@
       "address_line_2": "",
       "city": "Boise",
       "zip_code_5": "83720",
-      "zip_code_4": "",
-      "latitude": 43.613739,
-      "longitude": -116.237651,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Illinois",
@@ -180,11 +135,7 @@
       "address_line_2": "",
       "city": "Springfield",
       "zip_code_5": "62701",
-      "zip_code_4": "",
-      "latitude": 39.783250,
-      "longitude": -89.650373,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Indiana",
@@ -194,11 +145,7 @@
       "address_line_2": "",
       "city": "Indianapolis",
       "zip_code_5": "46204",
-      "zip_code_4": "",
-      "latitude": 39.790942,
-      "longitude": -86.147685,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Iowa",
@@ -208,11 +155,7 @@
       "address_line_2": "",
       "city": "Des Moines",
       "zip_code_5": "50319",
-      "zip_code_4": "",
-      "latitude": 41.590939,
-      "longitude": -93.620866,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Kansas",
@@ -222,11 +165,7 @@
       "address_line_2": "",
       "city": "Topeka",
       "zip_code_5": "66612",
-      "zip_code_4": "",
-      "latitude": 39.040000,
-      "longitude": -95.690000,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Kentucky",
@@ -236,11 +175,7 @@
       "address_line_2": "",
       "city": "Frankfort",
       "zip_code_5": "40601",
-      "zip_code_4": "",
-      "latitude": 38.186722,
-      "longitude": -84.875374,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Louisiana",
@@ -250,11 +185,7 @@
       "address_line_2": "",
       "city": "Baton Rouge",
       "zip_code_5": "70802",
-      "zip_code_4": "",
-      "latitude": 30.458090,
-      "longitude": -91.140229,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Maine",
@@ -264,11 +195,7 @@
       "address_line_2": "",
       "city": "Augusta",
       "zip_code_5": "04333",
-      "zip_code_4": "",
-      "latitude": 44.323535,
-      "longitude": -69.765261,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Maryland",
@@ -278,11 +205,7 @@
       "address_line_2": "",
       "city": "Annapolis",
       "zip_code_5": "21401",
-      "zip_code_4": "",
-      "latitude": 38.972945,
-      "longitude": -76.501157,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Massachusetts",
@@ -292,11 +215,7 @@
       "address_line_2": "",
       "city": "Boston",
       "zip_code_5": "02133",
-      "zip_code_4": "",
-      "latitude": 42.235200,
-      "longitude": -71.027500,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Michigan",
@@ -306,11 +225,7 @@
       "address_line_2": "",
       "city": "Lansing",
       "zip_code_5": "48933",
-      "zip_code_4": "",
-      "latitude": 42.354558,
-      "longitude": -84.955255,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Minnesota",
@@ -320,11 +235,7 @@
       "address_line_2": "",
       "city": "Saint Paul",
       "zip_code_5": "55155",
-      "zip_code_4": "",
-      "latitude": 44.950000,
-      "longitude": -93.094000,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Mississippi",
@@ -334,11 +245,7 @@
       "address_line_2": "",
       "city": "Jackson",
       "zip_code_5": "39201",
-      "zip_code_4": "",
-      "latitude": 32.320000,
-      "longitude": -90.207000,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Missouri",
@@ -348,11 +255,7 @@
       "address_line_2": "",
       "city": "Jefferson City",
       "zip_code_5": "65101",
-      "zip_code_4": "",
-      "latitude": 38.572954,
-      "longitude": -92.189283,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Montana",
@@ -362,11 +265,7 @@
       "address_line_2": "",
       "city": "Helena",
       "zip_code_5": "59620",
-      "zip_code_4": "",
-      "latitude": 46.595805,
-      "longitude": -112.027031,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Nebraska",
@@ -376,11 +275,7 @@
       "address_line_2": "",
       "city": "Lincoln",
       "zip_code_5": "68509",
-      "zip_code_4": "",
-      "latitude": 40.809868,
-      "longitude": -96.675345,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Nevada",
@@ -390,11 +285,7 @@
       "address_line_2": "",
       "city": "Carson City",
       "zip_code_5": "89701",
-      "zip_code_4": "",
-      "latitude": 39.161921,
-      "longitude": -119.766121,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "New Hampshire",
@@ -404,11 +295,7 @@
       "address_line_2": "",
       "city": "Concord",
       "zip_code_5": "03301",
-      "zip_code_4": "",
-      "latitude": 43.220093,
-      "longitude": -71.549896,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "New Jersey",
@@ -418,11 +305,7 @@
       "address_line_2": "",
       "city": "Trenton",
       "zip_code_5": "08608",
-      "zip_code_4": "",
-      "latitude": 40.221741,
-      "longitude": -74.756138,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "New Mexico",
@@ -432,11 +315,7 @@
       "address_line_2": "",
       "city": "Santa Fe",
       "zip_code_5": "87501",
-      "zip_code_4": "",
-      "latitude": 35.667231,
-      "longitude": -105.964575,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "New York",
@@ -446,11 +325,7 @@
       "address_line_2": "",
       "city": "Albany",
       "zip_code_5": "12224",
-      "zip_code_4": "",
-      "latitude": 42.659829,
-      "longitude": -73.781339,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "North Carolina",
@@ -460,11 +335,7 @@
       "address_line_2": "",
       "city": "Raleigh",
       "zip_code_5": "27601",
-      "zip_code_4": "",
-      "latitude": 35.771000,
-      "longitude": -78.638000,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "North Dakota",
@@ -474,11 +345,7 @@
       "address_line_2": "",
       "city": "Bismarck",
       "zip_code_5": "58505",
-      "zip_code_4": "",
-      "latitude": 46.813343,
-      "longitude": -100.779004,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Ohio",
@@ -488,11 +355,7 @@
       "address_line_2": "",
       "city": "Columbus",
       "zip_code_5": "43215",
-      "zip_code_4": "",
-      "latitude": 39.961346,
-      "longitude": -82.999069,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Oklahoma",
@@ -502,11 +365,7 @@
       "address_line_2": "",
       "city": "Oklahoma City",
       "zip_code_5": "73105",
-      "zip_code_4": "",
-      "latitude": 35.482309,
-      "longitude": -97.534994,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Oregon",
@@ -516,11 +375,7 @@
       "address_line_2": "",
       "city": "Salem",
       "zip_code_5": "97301",
-      "zip_code_4": "",
-      "latitude": 44.931109,
-      "longitude": -123.029159,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Pennsylvania",
@@ -530,11 +385,7 @@
       "address_line_2": "",
       "city": "Harrisburg",
       "zip_code_5": "17120",
-      "zip_code_4": "",
-      "latitude": 40.269789,
-      "longitude": -76.875613,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Rhode Island",
@@ -544,11 +395,7 @@
       "address_line_2": "",
       "city": "Providence",
       "zip_code_5": "02903",
-      "zip_code_4": "",
-      "latitude": 41.823550,
-      "longitude": -71.422132,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "South Carolina",
@@ -558,11 +405,7 @@
       "address_line_2": "",
       "city": "Columbia",
       "zip_code_5": "29201",
-      "zip_code_4": "",
-      "latitude": 34.000000,
-      "longitude": -81.035000,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "South Dakota",
@@ -572,11 +415,7 @@
       "address_line_2": "",
       "city": "Pierre",
       "zip_code_5": "57501",
-      "zip_code_4": "",
-      "latitude": 44.367966,
-      "longitude": -100.336378,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Tennessee",
@@ -586,11 +425,7 @@
       "address_line_2": "",
       "city": "Nashville",
       "zip_code_5": "37243",
-      "zip_code_4": "",
-      "latitude": 36.165000,
-      "longitude": -86.784000,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Texas",
@@ -600,11 +435,7 @@
       "address_line_2": "",
       "city": "Austin",
       "zip_code_5": "78701",
-      "zip_code_4": "",
-      "latitude": 30.266667,
-      "longitude": -97.750000,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Utah",
@@ -614,11 +445,7 @@
       "address_line_2": "",
       "city": "Salt Lake City",
       "zip_code_5": "84114",
-      "zip_code_4": "",
-      "latitude": 40.777477,
-      "longitude": -111.888237,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Vermont",
@@ -628,11 +455,7 @@
       "address_line_2": "",
       "city": "Montpelier",
       "zip_code_5": "05609",
-      "zip_code_4": "",
-      "latitude": 44.266390,
-      "longitude": -72.580536,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Virginia",
@@ -642,11 +465,7 @@
       "address_line_2": "",
       "city": "Richmond",
       "zip_code_5": "23218",
-      "zip_code_4": "",
-      "latitude": 37.540000,
-      "longitude": -77.460000,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Washington",
@@ -656,11 +475,7 @@
       "address_line_2": "",
       "city": "Olympia",
       "zip_code_5": "98504",
-      "zip_code_4": "",
-      "latitude": 47.042418,
-      "longitude": -122.893077,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "West Virginia",
@@ -670,11 +485,7 @@
       "address_line_2": "",
       "city": "Charleston",
       "zip_code_5": "25305",
-      "zip_code_4": "",
-      "latitude": 38.349497,
-      "longitude": -81.633294,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Wisconsin",
@@ -684,11 +495,7 @@
       "address_line_2": "",
       "city": "Madison",
       "zip_code_5": "53703",
-      "zip_code_4": "",
-      "latitude": 43.074722,
-      "longitude": -89.384444,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     },
     {
       "state": "Wyoming",
@@ -698,11 +505,7 @@
       "address_line_2": "",
       "city": "Cheyenne",
       "zip_code_5": "82002",
-      "zip_code_4": "",
-      "latitude": 41.145548,
-      "longitude": -104.802042,
-      "geocoding_status": "success",
-      "geocoding_service": "nominatim"
+      "zip_code_4": ""
     }
   ]
 }
